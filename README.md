@@ -7,12 +7,15 @@
 
 ## 1. 기능 구현
 
-- 로또 구입 관련 기능
+- 로또 구입 금액 관련 기능
 
     - 로또 구입 금액을 입력 받는 기능
     - 금액이 1000원 아래, 10만원 초과인 경우 예외 처리
     - 숫자가 아닌 다른 값, 음수인 값일 경우 예외 처리
     - 로또를 사고 남은 거스돈 처리 예외
+
+- 로또 구입 관련 기능
+
     - 가격에 맞는 로또 구입 및 출력 기능
     - 번호가 (1~45까지) 생성이 제대로 안될 경우의 예외 처리
     - 번호가 중복 안되게 생성
@@ -32,20 +35,20 @@
 
 ## 4. 클래스
 <pre>
-    - LottoGame
-    - Controller
-    - Lotto
-    - Rank
-    - WinningLotto
+    LottoGame
+    Controller
+    Lotto
+    Rank
+    WinningLotto
 </pre>
 
 ## 5. 메소드
-- LottoGame
+- LottoGame : 게임을 하는 플레이 하는 main 공간을 의미하는 객체
 
-- Controller
+- Controller : 게임의 흐름을 컨트럴하는 마스터 객체
     - askHowMuch
     - isNumber
     - checkInputRight
-- Lotto
-- Rank
-- WinningLotto
+- Lotto : 로또 한장을 의미하는 객체
+- Rank : 로또 등수를 의미하는 enum
+- WinningLotto : 당첨 번호를 담당하는 객체
