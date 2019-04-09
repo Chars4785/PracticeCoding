@@ -1,4 +1,4 @@
-Java Lotto
+#Java Lotto
 # 기능 구현
 
 ## 1. 로또 구입 관련 기능
@@ -25,3 +25,5 @@ Java Lotto
 ## 4. 클래스
 
 ## 5. 메소드
+
+![lottoEample](./img/lottoExample.png)
