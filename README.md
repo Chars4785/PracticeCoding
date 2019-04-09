@@ -1,4 +1,10 @@
-#Java Lotto
+# Java Lotto
+![lottoExample](./src/img/lottoExample.png)
+
+- 적은 금액에 해당하는 로또를 산다.
+- 지난 주 당첨 번호를 적는다.
+- 당첨된 금액과 수익률을 출력해준다.
+
 # 기능 구현
 
 ## 1. 로또 구입 관련 기능
@@ -26,4 +32,3 @@
 
 ## 5. 메소드
 
-![lottoExample](./src/img/lottoExample.png)
