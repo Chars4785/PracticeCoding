@@ -52,3 +52,4 @@
 - Lotto
 - Rank
 - WinningLotto
+ㅁㄴㅇ
