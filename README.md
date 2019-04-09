@@ -26,4 +26,4 @@
 
 ## 5. 메소드
 
-![lottoEample](./img/lottoExample.png)
+![lottoExample](./img/lottoExample.png)
