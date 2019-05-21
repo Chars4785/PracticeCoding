@@ -3,11 +3,13 @@
 - 관련사항
     - 자바
     - 문제는 백준
+    - 최대한 자바의 객체를 이용해서 코드를 만들어보자 !!
 
 ## 문제
 
 
-
+- [카카오 2019년 문제1번](https://github.com/Chars4785/PracticeCoding/blob/master/src/main/java/kakaoPro2019/FirstProblem.java)
+- [카카오 2019년 문제2번](https://github.com/Chars4785/PracticeCoding/blob/master/src/main/java/kakaoPro2019/SecondProblem.java)
 
 ## 코딩시 문제점
 
