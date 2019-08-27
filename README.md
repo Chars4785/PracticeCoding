@@ -6,5 +6,5 @@
 
 - [ 문제 풀이 공간 ](https://github.com/Chars4785/PracticeCoding/tree/master/ProblemSolution)
 
-- [ 전에 풀었던 문제 ] (https://github.com/Chars4785/PracticeCoding/tree/master/src/main/java)
+- [ 전에 풀었던 문제 ](https://github.com/Chars4785/PracticeCoding/tree/master/src/main/java)
 
