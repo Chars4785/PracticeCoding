@@ -1,76 +1,65 @@
-package sol5;
-
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.Stack;
 
-public class findHeight {
+public class findAnce{
+	
+    public static void main(String[] args){
 
+      Scanner scanner = new Scanner(System.in);
+      int[][] ary = new int[1010][1010];
+      ary[0][0] =1;
+      int N = scanner.nextInt();
+      int X = scanner.nextInt();
+      int Y = scanner.nextInt();
+      int Xparent=0;
+      int Yparent=0;
+      
+      for(int i =0;i<N-1;i++){
+        int parent = scanner.nextInt();
+        int child = scanner.nextInt();
+        ary[parent][child] =1;
+        if(child == X) Xparent = parent;
+        if(child == Y) Yparent = parent;
+      }
+      
+      List<Integer> Xpas = new ArrayList<>();
+      int[] Ypas = new int[1010];
+      
+      Xpas.add(Xparent);
+      Ypas[Yparent] =1;
+      
+      while(Xparent != 0){
+        for(int i =0;;i++){
+          if(ary[i][Xparent]==1){
+            Xpas.add(i);
+            Xparent =i;
+            break;
+          }
+        }
+      }
+      
+      
+      while(Yparent != 0){
+        for(int i =0;;i++){
+          if(ary[i][Yparent]==1){
+            Ypas[i]=1;
+            Yparent =i;
+            break;
+          }
+        }
+      }
+      
+      for(int e : Xpas){ 
+        if(Ypas[e] == 1){
+          System.out.println(e);
+          break;
+        }
+      }
+      
+      
 
-	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-		Node[] nodes = new Node[110];
-		int result=0;
-		
-		int N = scanner.nextInt();
-		int root = scanner.nextInt();
-		
-	
-		for(int i=0;i< N -1;i++) {
-			int p = scanner.nextInt();
-			int c = scanner.nextInt();
-			if(nodes[p] == null) {
-				nodes[p] = new Node();
-				nodes[p].push(c);
-			}else {
-				nodes[p].push(c);
-			}
-		}
-		
-		DFS(root,0,nodes,result);
-		
-		System.out.println(result);
-	}
-	
-	public static void DFS(int value, int len,Node[] nodes,int result) {
-		
-		if(!nodes[value].empty()) {
-			
-			for(int e : nodes[value].list ) {
-				DFS(e,len+1,nodes,result);
-			}
-			
-		}else {
-			
-			if(len > result)
-				result =len;
-		}
-		
-	}
-}
-
-class Node{
-	List<Integer> list;
-	
-	public Node() {
-		list  = new LinkedList<>();
-	}
-	
-	void push(int value) {
-		list.add(value);
-	}
-	
-	boolean empty() {
-		return list.isEmpty();
-	}
-	
-	List<Integer> lists(){
-		return list;
-	}
-	int listSize() {
-		return list.size();
-	}
+    }
 }
 /*
  * 트리의 노드 X에 대하여 “조상"을 정의할 수 있다.
