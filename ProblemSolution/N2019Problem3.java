@@ -4,6 +4,7 @@ import java.util.PriorityQueue;
 
 /*
  *  우선순위 큐에서 2가지 조건으로
+ *  네이버 신입 문제
  */
 
 public class N2019Problem3 {
