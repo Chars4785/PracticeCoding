@@ -2,20 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26812419-325a-4ada-aaad-4ed651354476" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PracticeCoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/META-INF/charstest.main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/CycleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackStep/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackStep/Parenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/FindAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfsDfs/Virus_back2606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfsDfs/stickPost_2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kakaoPro2019/FifthProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kakaoPro2019/FourthProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kakaoPro2019/ProblemSecondTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kakaoPro2019/ThirdProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learnJava/UserDeao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ncTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ncTest/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swea/swea5644.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/Sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/lottoExample.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolution/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemSolution/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/chars.charstest.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/domain/Lotto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/domain/LottoGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/domain/Rank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/domain/WinningLotto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackStep/Top.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackStep/Top.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kakaoPro2019/SecondProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kakaoPro2019/SecondProblem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -39,22 +68,61 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="charstest" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4981">
+              <caret line="333" selection-start-line="333" selection-end-line="333" />
+              <folding>
+                <element signature="e#11597#11598#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/FirstProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StackStep/Dish.java">
+        <entry file="file://$PROJECT_DIR$/ProblemSolution/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="340">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/ThirdProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,6 +132,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -93,63 +162,95 @@
         <option value="$PROJECT_DIR$/src/main/java/domain/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/domain/LottoGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/domain/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Queue/Epidemic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackStep/Top.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Queue/MakeQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackStep/Dish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackStep/Parenthesis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Queue/CycleQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tree/FindAncestor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StackStep/Histogram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tree/MakeHeap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/Draw.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/Attack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/UserIn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/makeGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/MakeEn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/Make2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/Make1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/learnJava/UserDeao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kakaoPro/FirstProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kakaoPro2019/FirstProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Sol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kakaoPro2019/SecondProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/recursive/Tobin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ncTest/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exer/ClassAa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exer/StudentExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exer/ExerciseClass_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exer/Exercise4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bfsDfs/Virus_back2606.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bfsDfs/stickPost_2667.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kakaoPro2019/FourthProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kakaoPro2019/ThirdProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swea/swea5644.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kakaoPro2019/ProblemSecondTime.java" />
+        <option value="$PROJECT_DIR$/.gradle/ProblemSolution/Readme.dm" />
+        <option value="$PROJECT_DIR$/ProblemSolution/Readme.dm" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ProblemSolution/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="71" />
-    <option name="width" value="1060" />
-    <option name="height" value="721" />
+    <option name="x" value="100" />
+    <option name="y" value="23" />
+    <option name="width" value="1140" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="charstest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeCoding" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PracticeCoding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="charstest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeCoding" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="charstest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeCoding" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="charstest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeCoding" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555990624993" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557759991841" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/main/img" />
     </key>
@@ -166,20 +267,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LottoGame">
-    <configuration name="Chars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chars" />
-      <module name="chars.charstest.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LottoGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="domain.LottoGame" />
-      <module name="chars.charstest.main" />
+  <component name="RunManager" selected="Application.ProblemSecondTime">
+    <configuration name="FourthProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kakaoPro2019.FourthProblem" />
+      <module name="charstest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="domain.*" />
+          <option name="PATTERN" value="kakaoPro2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="domain.Main" />
-      <module name="chars.charstest.main" />
+    <configuration name="ProblemSecondTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kakaoPro2019.ProblemSecondTime" />
+      <module name="charstest.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="domain.*" />
+          <option name="PATTERN" value="kakaoPro2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,19 +294,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="chars.charstest.main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="charstest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stickPost_2667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bfsDfs.stickPost_2667" />
+      <module name="charstest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bfsDfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swea5644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swea.swea5644" />
+      <module name="charstest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LottoGame" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Chars" />
+        <item itemvalue="Application.ProblemSecondTime" />
+        <item itemvalue="Application.swea5644" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FourthProblem" />
+        <item itemvalue="Application.stickPost_2667" />
       </list>
     </recent_temporary>
   </component>
@@ -239,27 +366,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="71" width="1060" height="721" extended-state="0" />
+    <frame x="100" y="23" width="1140" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3015717" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60420316" visible="true" weight="0.27322406" />
+      <window_info id="Structure" order="1" sideWeight="0.39325842" side_tool="true" weight="0.23650794" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.39579684" side_tool="true" weight="0.16526397" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967742" weight="0.32738096" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892473" weight="0.35416666" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49894515" weight="0.32825485" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55100185" weight="0.31082803" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7586521" weight="0.35286623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32986626" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32986626" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3254086" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50107527" side_tool="true" weight="0.39970282" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32902297" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3243243" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.24134791" side_tool="true" visible="true" weight="0.25477707" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32882884" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49892473" weight="0.32738096" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48360655" weight="0.20254777" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -271,7 +399,43 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Queue/MakeQueue.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursive/Tobin.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kakaoPro2019/ProblemSecondTime.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="user" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>user</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="setValue">
       <expression>
         <expression-string>3</expression-string>
@@ -281,111 +445,305 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Lotto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/WinningLotto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Rank.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Main.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/Attack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/Draw.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tree/FindAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/makeGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackStep/Parenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/Make2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/Make1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/UserIn.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/learnJava/UserDeao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Queue/MakeQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Queue/CycleQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackStep/Top.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackStep/Histogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Queue/Epidemic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tree/MakeHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="337" column="82" lean-forward="true" selection-start-line="337" selection-start-column="4" selection-end-line="337" selection-end-column="82" />
+          <folding>
+            <element signature="e#7819#7820#0" expanded="true" />
+            <element signature="e#7872#7873#0" expanded="true" />
+            <element signature="e#14155#14156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21131">
+          <caret line="1319" column="36" selection-start-line="1319" selection-start-column="36" selection-end-line="1319" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exer/Exercise4.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exer/ExerciseClass_1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exer/ClassAa.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exer/StudentExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ncTest/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursive/Tobin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ncTest/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StackStep/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swea/swea5644.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfsDfs/Virus_back2606.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="45" selection-start-line="45" selection-end-line="49" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfsDfs/stickPost_2667.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Sol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/ProblemSecondTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7548">
+          <caret line="507" selection-start-line="507" selection-end-line="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/FifthProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chars.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="161" column="12" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="117" column="15" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/RacingCar.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="504">
+          <caret line="2034" selection-start-line="2034" selection-end-line="2034" />
           <folding>
-            <element signature="e#2838#2839#0" expanded="true" />
-            <element signature="e#2872#2873#0" expanded="true" />
+            <element signature="e#83250#83251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/FourthProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/img" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/스크린샷 2019-04-09 오후 12.43.02.png" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/LottoGame.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Lotto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="-12">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/WinningLotto.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/SecondProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Rank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="748">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
           <folding>
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Test.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="4981">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
           <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#11597#11598#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/ThirdProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="306">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kakaoPro2019/FirstProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolution/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -441,7 +799,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test|chars.charstest</last-edited>
+          <last-edited>main|charstest</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

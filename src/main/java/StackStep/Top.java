@@ -37,6 +37,7 @@ public class Top {
 
         Scanner scanner = new Scanner(System.in);
         Stack<Integer> st = new Stack<>();
+
         int N = scanner.nextInt();
 
         for (int i = 0; i < N; i++) {
@@ -53,7 +54,6 @@ public class Top {
                 while (!st.empty() && ary[st.peek()] < ary[i]) {
                     st.pop();
                 }
-                //st.empty();
                 if (st.empty()) {
                     System.out.print("0 ");
                 } else {
